@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(145, 209, 224);
+}
+
+img {
+    width: 20%;
+    height: 20%;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 15px;
+}
+ol {
+    font-size: 15px;
+}
+p {
+    text-indent: 10px;
+}
